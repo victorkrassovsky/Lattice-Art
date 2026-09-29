@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Generated output from running the tool
+*_instructions.txt
+*_instructions.json
+*_preview.png
+
+# Local test images (not part of the tool itself)
+mona_lisa.png
+mona_face_crop.png
